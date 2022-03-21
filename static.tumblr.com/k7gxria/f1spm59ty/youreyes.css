@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:900|Seymour+One');
+.cc {
+   por: rose;
+   fenix: graphic;
+}
+#youreyes {
+   width: 700px;
+   box-sizing: border-box; 
+   padding: 20px 20px 0; 
+   border: 1px solid; 
+   overflow: hidden;
+} 
+#youreyes:after {
+   content: "rose in fenix graphic"; 
+   font: 8px tahoma; 
+   display: block; 
+   margin: -10px 0 0; 
+   color: #fff;
+} 
+#youreyes img {
+   width: 500px; 
+   height: 200px;
+   object-fit: cover;
+} 
+#youreyes h1 {
+   width: 105px; 
+   height: 160px; 
+   padding: 20px; 
+   font: 25px 'Montserrat', sans-serif; 
+   text-align: left; 
+   float: right; 
+   margin: 0;
+} 
+#youreyes sub {
+   width: 650px; 
+   box-sizing: border-box; 
+   padding: 5px; 
+   text-transform: uppercase; 
+   font: 11px 'Montserrat', sans-serif; 
+   border-bottom: 1px solid; 
+   margin-top: -3px; 
+   display: inline-block;
+}
+#youreyes p {
+   width: 650px; 
+   padding: 20px 0 10px; 
+   text-align: justify; 
+   font: 11px/15px tahoma; 
+   border-bottom: 20px solid;
+   letter-spacing: 1px;
+   margin-bottom: 0px;
+}

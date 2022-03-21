@@ -1,0 +1,125 @@
+div#afilis {
+    background: #f6f6f6;
+    border: solid 1px #ddd;
+    color: #000021;
+    margin: 10px auto;
+    padding: 5px;
+    width: 600px;
+}
+
+div#headaf {
+    background: #a5bb76;
+    border: 5px solid #fff;
+    border-radius: 2px;
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 25px;
+    margin: -5px -5px 50px;
+    padding: 50px 40px;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+div#headaf:after {
+    background: #a5bb76;
+    border-bottom: 5px solid #fff;
+    border-bottom-right-radius: 10px;
+    border-right: 5px solid #fff;
+    bottom: -36px;
+    content: "";
+    display: block;
+    height: 60px;
+    left: 270px;
+    position: absolute;
+    transform: rotate(45deg);
+    width: 60px;
+}
+
+div#cuerpaf {
+    background: #fff;
+    border: solid 1px #ddd;
+    font-family: roboto;
+    font-size: 11px;
+    line-height: 13px;
+    margin: 35px;
+    padding: 30px;
+    text-align: justify;
+}
+
+.titleaf {
+    background: #ededed;
+    border: solid #ddd 1px;
+    border-radius: 2px;
+    color: #a5bb76;
+    font-family: Karla;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+.scrollaf {
+    height: 250px;
+    margin: 5px 0;
+    padding-right: 5px;
+    overflow: auto;
+}
+
+table .titleaf {
+    width: 210px;
+}
+
+td.links a {
+background: #a5bb76;
+    border-radius: 2px;
+    color: #fff;
+    display: block;
+    font-family: karla;
+    font-size: 12px;
+    font-weight: 900;
+    margin-bottom: 5.5px;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#afilis table .scrollaf {
+    padding: 0;
+  overflow:visible;
+  height:200px;
+  
+}
+div#headaf sub{
+display: block;
+    font-size: 10px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+div#headaf sub:before{
+    background: #000021;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    margin-bottom: 3px;
+    margin-right: 5px;
+    width: 100px;
+}
+div#headaf sub:after{
+   background: #000021;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+    width: 100px; 
+}
+a.staffr {
+    display: inline-block;
+    height: 95px;
+    margin: 1px;
+    width: 95px;
+    background-size: cover!important;
+}

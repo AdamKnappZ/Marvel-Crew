@@ -1,0 +1,225 @@
+/***Fight for Freedom by Sailor Codes***/
+/**Colores**/
+:root {
+  --color-accent-1:#282e3f;
+  --color-accent-2:#bdc2c9;
+  --color-contraste:#c14343;
+}
+/***Font***/
+@font-face {
+	font-family: 'Watermelon';
+	src: url('https://dl.dropboxusercontent.com/s/u7wl2u9c036h67t/Watermelon.otf') format('opentype');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Facile';
+	src: url('https://dl.dropboxusercontent.com/s/895rp2mv1x0jer3/Facile.otf') format('opentype');
+	font-weight: 400;
+	font-style: normal;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Muli Regular'), local('Muli-Regular'), url(https://fonts.gstatic.com/s/muli/v16/7Auwp_0qiz-afTzGLRrX.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Muli Regular'), local('Muli-Regular'), url(https://fonts.gstatic.com/s/muli/v16/7Auwp_0qiz-afTLGLQ.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+div#afisf3 {
+    background: #f3f3f3;
+    border: solid 1px rgba(0,0,0,0.3);
+    display: block;
+    margin: 50px auto;
+    padding: 10px;
+    width: 474px;
+    overflow: hidden;
+}
+
+div#af3hea {
+    background: var(--color-accent-1);
+    color: var(--color-accent-2);
+    font-family: facile;
+    font-size: 25px;
+    padding: 25px;
+    text-align: center;
+}
+
+div#af3hea span {
+    background: rgba(0,0,0,0.5);
+    box-shadow: 0 0 5px #000;
+    display: block;
+    line-height: 86px;
+}
+
+img#af3por {
+    background: #ededed;
+    border: solid 1px #aaa;
+    display: block;
+    padding: 10px;
+    outline: solid 1px #aaa;
+    outline-offset: -11px;
+    width: 452px;
+    margin: -4px auto;
+}
+
+div#af3tra {
+    background: #ededed;
+    border: solid 1px #aaa;
+    box-sizing: border-box;
+    display: block;
+    font-family: muli;
+    font-size: 13px;
+    line-height: 13px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: justify;
+    color: #000;
+}
+
+div#af3lef {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: -10px;
+}
+
+div#af3rig {
+    float: right;
+    margin-bottom: -10px;
+}
+
+.af3tit {
+    background: #f3f3f3;
+    border: solid 1px #aaa;
+    box-sizing: border-box;
+    color: #2c2833;
+    font-family: watermelon;
+    font-size: 30px;
+    height: 50px;
+    line-height: 25px;
+    padding: 10px;
+    text-align: center;
+    text-transform: lowercase;
+    width: 232px;
+    border-bottom: 0;
+}
+
+.af3tit span.sf {
+    background: var(--color-accent-2);
+    box-sizing: border-box;
+    color: var(--color-accent-1);
+    display: inline-block;
+    float: left;
+    font-size: 20px;
+    height: 49px;
+    line-height: 45px;
+    margin: -10px;
+    padding-top: 15px;
+    text-align: center;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.3);
+    width: 48px;
+}
+
+.af3tit+br {
+    display: none;
+}
+
+.af3scro {
+    width: 232px;
+    background: #ededed;
+    border: solid 1px #aaa;
+    box-sizing: border-box;
+    font-family: muli;
+    font-size: 13px;
+    line-height: 14px;
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+
+div#af3lef .af3scro img {
+    background: #ededed;
+    border: solid 1px #aaa;
+    padding: 10px;
+    outline: solid 1px #aaa;
+    outline-offset: -11px;
+    margin-right: 10px;
+    margin-top: 10px;
+    width: 78px;
+}
+
+.af3scro+br {
+    display: none;
+}
+
+div#af3lef .af3scro a {
+    background: #f3f3f3;
+    border: solid 1px rgba(0,0,0,0.3);
+    display: block;
+    font-family: facile;
+    font-size: 13px;
+    line-height: 15px;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+div#af3lef .af3scro a+br {
+    display: none;
+}
+
+div#af3lef .af3scro a:nth-child(1) {
+    margin-top: 0;
+}
+
+div#af3lef .af3scro img:nth-child(1) {
+    width: 190px;
+    margin-top: 0;	
+    margin-right: 0;
+}
+div#af3lef .af3scro img:nth-child(3) {	
+    margin-right: 0;
+}
+div#af3rig>br {
+    display: none;
+}
+
+div#af3lef+br {
+    display: none;
+}
+
+div#af3rig .af3scro {
+    background: #ededed;
+    border: solid transparent;
+    border-width: 10px 5px 10px 10px;
+    box-sizing: border-box;
+    display: block;
+    font-family: muli;
+    font-size: 13px;
+    height: 568px;
+    line-height: 14px;
+    outline: solid 1px #aaa;
+    outline-offset: -1px;
+    overflow: auto;
+    padding-right: 5px;
+    text-align: center;
+}
+
+div#af3rig+br {
+    display: none;
+}
+
+div#af3tra+br {
+    display: none;
+}

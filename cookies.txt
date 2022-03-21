@@ -1,0 +1,30 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dropboxusercontent.com	TRUE	/	FALSE	1999999999	uc_session	HsHOPcc4NaBKI3KXSpsAdjcMAmntee8oKa8xGBIhBq3bnIWg1Hw2qF9I0cxPvJG5
+cdna.artstation.com	TRUE	/	FALSE	1999999999	SameSite	None
+i.gyazo.com	TRUE	/	FALSE	1999999999	Gyazo_cfwoker	i
+i.gyazo.com	TRUE	/	FALSE	1999999999	SameSite	None
+s3c.es	TRUE	/	FALSE	1999999999	AKA_A2	A
+amp.periodicodeibiza.es	TRUE	/	FALSE	1999999999	symfony	ub1mrvb9gi7a5o32bbgh9f7on8
+alchetron.com	TRUE	/	FALSE	1999999999	__cflb	02DiuEFhMCEPjpwk2qd1FcLTbgUZCKbcAknjMyHCHEzAG
+alchetron.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+latercera.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+www.latercera.com	TRUE	/	FALSE	1999999999	akaas_AS_copesa_la_tercera_prod	2147483647~rv=17~id=09270eccccd266707c60358034809381
+www.latercera.com	TRUE	/	FALSE	1999999999	SameSite	None
+.eltiempo.com	TRUE	/	FALSE	1999999999	visid_incap_1371781	IVv2zsv/S3KqJtXZCr41/6zKOGIAAAAAQUIPAAAAAABnS4el1eEtD/hEe75V+bLE
+.eltiempo.com	TRUE	/	FALSE	1999999999	incap_ses_786_1371781	PsYHarvDTUp2cPb4cW/oCqzKOGIAAAAAquuaRRWMG25RX5D8I19ZiQ==
+www.eltiempo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.theglobeandmail.com	TRUE	/	FALSE	1999999999	ak_user	{"latitude":"-34.59","longitude":"-58.67","timezone":"GMT-3","network":"","country_code":"AR","region_code":"","city":"BUENOSAIRES","postal_code":"","ip":"2800:810:48d:8c42:2432:c9a2:b578:b3b6","is_mobile":"false","is_wireless":"false","is_tablet":"false","device_os":""}
+www.theglobeandmail.com	TRUE	/	FALSE	1999999999	akaas_tgam_tgam_sandbox	2147483647~rv=100~id=3b352e66aa4940a1b92e80058372bbbb
+www.theglobeandmail.com	TRUE	/	FALSE	1999999999	SameSite	None
+.artstation.com	TRUE	/	FALSE	1999999999	__cf_bm	ABC0TyR.wYHiW9HWOk_qfIuW9M3SN5Dd3MTLyKrtXaY-1647890316-0-AbC07jxjT0wrndozczMqhVKgrC0aQpLYdaok+C1BKy0x6uqwGOl+fPxQDtedH7D+xb/9e6CApiJuetT/K++iaPKcX0ZVlIL1e95jNy1YtC/o
+cdnb.artstation.com	TRUE	/	FALSE	1999999999	SameSite	None
+.images.saatchiart.com	TRUE	/	FALSE	1999999999	__cf_bm	V0jfUJsVqg9Q8fjammpImAIVTWZtZc_iZAviAYErM6w-1647890373-0-AcrVsDai8DMsQBwFWbmMqTHSjlLKdl+4PpPQ3EO9IAMMw6/r46hebMl7qUbEwwNwiKcIF7VIZg8WEAeUv8CX8hQ=
+images.saatchiart.com	TRUE	/	FALSE	1999999999	SameSite	None
+media1.tenor.com	TRUE	/	FALSE	1999999999	countryCode	AR
+media1.tenor.com	TRUE	/	FALSE	1999999999	countryCode	AR
+i.imgsafe.org	TRUE	/	FALSE	1999999999	cf_use_ob	0
+tenor.com	TRUE	/	FALSE	1999999999	countryCode	AR
+.codepen.io	TRUE	/	FALSE	1999999999	__cf_bm	H7Kfg7mrOoookC12S2xWQuIJiObqnDL_Ygl7VfeHiL4-1647892845-0-Adt8qAHaMB9R9Q5xrOfDh19Gl7aDd9BgZ/BA3IXSfFsbDpfbcesq0+c8I9LvOjNPtLmHzuU8pHv6GXO27Y7X0qc=
+codepen.io	TRUE	/	FALSE	1999999999	SameSite	None
+
